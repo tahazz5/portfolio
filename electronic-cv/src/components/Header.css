@@ -1,0 +1,26 @@
+/* src/components/Header.css */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #343a40; /* Couleur de fond sombre */
+    color: white; /* Couleur du texte blanche */
+}
+
+header h1 {
+    font-size: 2.5rem; /* Taille de la police pour le nom */
+    margin-bottom: 0.5rem; /* Espacement en bas du titre */
+}
+
+header p {
+    font-size: 1rem; /* Taille de la police pour les autres textes */
+    margin: 0.5rem 0; /* Marges pour le texte */
+}
+
+header a {
+    color: #007bff; /* Couleur des liens */
+    text-decoration: none; /* Pas de soulignement pour les liens */
+}
+
+header a:hover {
+    text-decoration: underline; /* Soulignement au survol */
+}

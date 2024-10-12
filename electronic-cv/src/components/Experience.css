@@ -1,0 +1,22 @@
+/* src/components/Experience.css */
+#experience {
+    padding: 40px;
+    background-color: #fff; /* Couleur de fond blanche */
+    border: 1px solid #dee2e6; /* Bordure légère */
+    border-radius: 8px; /* Coins arrondis */
+}
+
+#experience h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40; /* Couleur du titre */
+}
+
+#experience h4 {
+    margin-top: 20px; /* Espacement au-dessus de chaque poste */
+    color: #495057; /* Couleur plus claire pour les sous-titres */
+}
+
+#experience p {
+    margin: 5px 0; /* Marges pour le texte de description */
+}

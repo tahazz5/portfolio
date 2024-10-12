@@ -1,0 +1,23 @@
+/* src/components/Education.css */
+#education {
+    padding: 40px;
+    background-color: #fff; /* Couleur de fond blanche */
+    border: 1px solid #dee2e6; /* Bordure légère */
+    border-radius: 8px; /* Coins arrondis */
+}
+
+#education h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40; /* Couleur du titre */
+}
+
+#education ul {
+    list-style-type: none; /* Pas de points de liste */
+    padding: 0; /* Pas de padding */
+}
+
+#education li {
+    padding: 10px 0; /* Espacement entre les éléments */
+    font-size: 1rem; /* Taille de la police pour les éléments de la liste */
+}

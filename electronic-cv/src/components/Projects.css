@@ -1,0 +1,22 @@
+/* src/components/Projects.css */
+#projects {
+    padding: 40px;
+    background-color: #f8f9fa; /* Couleur de fond légère */
+    border-radius: 8px; /* Coins arrondis */
+}
+
+#projects h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40; /* Couleur du titre */
+}
+
+#projects ul {
+    list-style-type: none; /* Pas de points de liste */
+    padding: 0; /* Pas de padding */
+}
+
+#projects li {
+    padding: 10px 0; /* Espacement entre les éléments */
+    font-size: 1rem; /* Taille de la police pour les éléments de la liste */
+}
